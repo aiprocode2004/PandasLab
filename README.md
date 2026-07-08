@@ -1,13 +1,13 @@
-#Program 1: Student Performance Analysis
-#Program 2: Employee Salary Analysis 
-#Program 3: Sales Data Analytics
-#Program 4: Hospital Patient Analytics 
-#Program 5: Banking Transaction Analysis
-#Program 6: Online Shopping Analytics 
-#Program 7: Attendance Analytics
-#Program 8: Cricket Score Analytics
-#Program 9: Movie Rating Analytics
-#Program 10: Weather Data Analytics
+1. Program 1: Student Performance Analysis
+2. Program 2: Employee Salary Analysis
+3. Program 3: Sales Data Analytics
+4. Program 4: Hospital Patient Analytics
+5. Program 5: Banking Transaction Analysis
+6. Program 6: Online Shopping Analytics
+7. Program 7: Attendance Analytics
+8. Program 8: Cricket Score Analytics
+9. Program 9: Movie Rating Analytics
+10. Program 10: Weather Data Analytics
 
 Pandas Functions Covered 
 Function            Purpose 
